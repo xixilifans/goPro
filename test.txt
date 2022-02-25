@@ -1,5 +1,6 @@
 test hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ddd
 ffff
@@ -10,3 +11,6 @@ yes
 
 
 ffffzzzz
+=======
+fight
+>>>>>>> 6b126dd13c398c625c570f7e82fa4e47f0bbbd87

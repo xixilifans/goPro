@@ -21,4 +21,10 @@ func main() {
 
 	fmt.Println("a  b   Before:", a.Before(b))
 
+	m := make(map[string]interface{})
+	m["hello"] = 1
+	m["tt"] = 2
+	fmt.Println(m[0])
+	fmt.Println(m[1])
+
 }
